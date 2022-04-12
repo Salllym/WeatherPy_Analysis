@@ -29,7 +29,7 @@ Jupyter-gmaps and the Google Places API were used to work with weather data to p
 
 A heat map was created to display the humidity for every city from Part 1, as in the following image:
 
-  ![heatmap])output_data/heatmap.png) 
+  ![heatmap](WeatherPy/output_data/heatmap.png) 
 
 * The DataFrame was narrowed down to find an ideal weather condition. For example:
 
@@ -45,4 +45,4 @@ A heat map was created to display the humidity for every city from Part 1, as in
 
 * Hotels were plotted on top of the humidity heatmap, with each pin containing the **Hotel Name**, **City**, and **Country**, as in the following image:
 
-  ![hotel map](output_data/hotel_map.png)
+  ![hotel map](WeatherPy/output_data/hotel_map.png)
