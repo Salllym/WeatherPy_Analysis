@@ -23,14 +23,6 @@ Also, linear regression was computed for each relationship and plots were separa
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-## Analyis
-1. Temperature correlates well with latitude because as the maximum temperature decreases, there's a direct increase in the distance away from the equator on both hemispheres.
-
-2. There isn't correlation between humidity levels and latitude on the Northern Hemisphere since its humidity levels ranges from 10% and 100%.
-
-3. There isn't correlation between cloudiness and latitude on both hemispheres because the cloudiness levels are scattered across all latitudes.
-
-
 ### Part 2: VacationPy
 
 Jupyter-gmaps and the Google Places API were used to work with weather data to plan future vacations.
@@ -54,3 +46,11 @@ A heat map was created to display the humidity for every city from Part 1, as in
 * Hotels were plotted on top of the humidity heatmap, with each pin containing the **Hotel Name**, **City**, and **Country**, as in the following image:
 
   ![hotel map](WeatherPy/output_data/hotel_map.png)
+
+
+## Analyis
+1. Temperature correlates well with latitude because as the maximum temperature decreases, there's a direct increase in the distance away from the equator on both hemispheres.
+
+2. There isn't correlation between humidity levels and latitude on the Northern Hemisphere since its humidity levels ranges from 10% and 100%.
+
+3. There isn't correlation between cloudiness and latitude on both hemispheres because the cloudiness levels are scattered across all latitudes.
